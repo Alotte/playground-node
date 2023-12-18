@@ -34,19 +34,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-# Node modules
-node_modules/
-
-# Environment variables
-.env
-
-# Logs
-logs
-*.log
-
-# Dependency directories
-.pnp
-.pnp.js
-
-# Output of npm
-*.pnp.*
